@@ -5,7 +5,7 @@
 Check out my shinyapp for this demo: https://fanouyang.shinyapps.io/cordtra/
 
 #### References
-- Original code refer to: Dr. Bodong Chen's CORDTRA-R https://github.com/meefen/CORDTRA-R
+- Original code refers to: Dr. Bodong Chen's CORDTRA-R https://github.com/meefen/CORDTRA-R
 
 - Original research article refers to: Hmelo-Silver, C. E., Chernobilsky, E., & Jordan, R. (2008). Understanding collaborative learning processes in new learning environments. Instructional Science, 36(5-6), 409–430. doi:10.1007/s11251-008-9063-8
 
