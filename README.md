@@ -1,8 +1,9 @@
 #### Intro
-- This is a demo of a part of my dissertation research, demonstrating the temporal analysis of students' online collaborative inquiry and the instructor's online involvement within an online course. 
+- This is a demo of a part of my dissertation research, demonstrating the temporal (time series) analysis of students' online collaborative inquiry and the instructor's online involvement within an online course. 
 
-- In this demo, I only show three weeks from the beginning to the middle and end of the course (i.e., week 2, week 8, and week 14).
-Check out my shinyapp for this demo: https://fanouyang.shinyapps.io/cordtra/
+- In this demo, I only show cordtra graphs for discussions of three weeks from the beginning to the middle and end of the course (i.e., week 2, week 8, and week 14). Within each week, the number in the X axis represents chronology within the discussion thread of a week. Cordtra graphs for demo weeks can be found in the folder "cordtra_graphs".
+
+- Check out my shinyapp for this demo: https://fanouyang.shinyapps.io/cordtra/
 
 #### References
 - Original code refers to: Dr. Bodong Chen's CORDTRA-R https://github.com/meefen/CORDTRA-R
